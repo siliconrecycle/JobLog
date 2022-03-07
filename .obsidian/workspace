@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "5eaea1f07c715c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c7bc8e010f409ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-03-07.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f318e605d6d671cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b0a05fa11be907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca71d8d58741029",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9fcd41b00482d5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf5151edb0f77bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "178d6917b8e9c25a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd1cf4540b8c8ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-03-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e744afc809e144c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "31a618e03d44defc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "active": "1c7bc8e010f409ad",
+  "lastOpenFiles": [
+    "2022-03-07.md",
+    "2022-03-05.md",
+    "2022-03-02.md",
+    "2022-03-03.md",
+    "2022-03-04.md",
+    "2022-03-01.md",
+    "template/日记.md",
+    "2022-W09.md",
+    "GS01.md"
+  ]
+}
