@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03-07.md",
+            "file": "2022-03-08.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-07.md",
+                "file": "2022-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "1c7bc8e010f409ad",
   "lastOpenFiles": [
+    "2022-03-08.md",
     "2022-03-07.md",
     "template/日记.md",
     "2022-03-05.md",
