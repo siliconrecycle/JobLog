@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03-09.md",
+            "file": "2022-03-10.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-09.md",
+                "file": "2022-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "0ba142cb91fef43e",
   "lastOpenFiles": [
+    "2022-03-10.md",
     "2022-03-09.md",
     "2022-03-08.md",
     "2022-03-05.md",
@@ -114,7 +115,6 @@
     "2022-03-02.md",
     "2022-03-03.md",
     "2022-03-04.md",
-    "2022-03-01.md",
-    "2022-W09.md"
+    "2022-03-01.md"
   ]
 }
