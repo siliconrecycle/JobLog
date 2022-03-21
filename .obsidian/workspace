@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03-21.md",
+            "file": "Hello World.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-21.md",
+                "file": "Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "87055c0ffd395d5d",
   "lastOpenFiles": [
+    "Hello World.md",
     "2022-03-21.md",
-    "未命名.md",
     "2022-03-19.md",
     "2022-03-18.md",
     "2022-03-11.md",
