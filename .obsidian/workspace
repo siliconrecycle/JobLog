@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/日志.md",
+            "file": "工作日志/2022-03-23.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/日志.md",
+                "file": "工作日志/2022-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "87055c0ffd395d5d",
   "lastOpenFiles": [
-    "template/日志.md",
     "工作日志/2022-03-23.md",
+    "template/日志.md",
     "工作日志/2022-03-22.md",
     "工作日志/2022-03-21.md",
     "工作日志/2022-03-01.md",
