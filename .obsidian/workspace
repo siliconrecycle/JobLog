@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,6 +108,7 @@
   "active": "87055c0ffd395d5d",
   "lastOpenFiles": [
     "工作日志/2022-03-24.md",
+    "工作日志/2022-03-11.md",
     "寄存器操作MIO.md",
     "工作日志/2022-03-05.md",
     "工作日志/2022-03-07.md",
@@ -114,7 +116,6 @@
     "工作日志/2022-03-03.md",
     "工作日志/2022-03-02.md",
     "工作日志/2022-03-01.md",
-    "Hello World.md",
-    "工作日志/2022-03-23.md"
+    "Hello World.md"
   ]
 }
