@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/大纲.md",
+            "file": "工作文档/4、GPIO子系统.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/大纲.md",
+                "file": "工作文档/4、GPIO子系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "87055c0ffd395d5d",
   "lastOpenFiles": [
-    "template/大纲.md",
-    "工作文档/1、Hello World.md",
     "工作文档/4、GPIO子系统.md",
+    "工作文档/1、Hello World.md",
+    "template/大纲.md",
     "工作文档/3、寄存器操作MIO.md",
     "工作日志/2022-03-26.md",
     "工作日志/2022-03-25.md",
