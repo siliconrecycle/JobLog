@@ -6,7 +6,7 @@
 #### 1.2 框图
 - 在 linux 的体系框架中是什么情况？
 #### 1.3 介绍（参考裸机）
-- 如何使用？
+- 如何使用？https://docs.kernel.org/driver-api/misc_devices.html?highlight=misc
 - 是什么？
 - 为什么？
 #### 1.4 搭建工程（系统移植，驱动与应用程序）
