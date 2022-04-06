@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "cf5151edb0f77bba",
@@ -109,13 +108,13 @@
   "lastOpenFiles": [
     "工作日志/2022-04-06.md",
     "工作文档/7、MISC 设备.md",
-    "工作文档/4、GPIO子系统.md",
-    "工作文档/3、寄存器操作MIO.md",
-    "工作文档/1、Hello World.md",
-    "工作文档/5、平台总线GPIO.md",
-    "工作文档/6、基于设备树的平台驱动.md",
+    "体征记录/0401.md",
+    "Clang 错题集/0331.md",
+    "Pasted image 20220321103556.png",
+    "待办.md",
+    "template/日志.md",
     "工作日志/2022-04-02.md",
-    "已解决.md",
-    "想法.md"
+    "工作日志/2022-04-01.md",
+    "工作日志/2022-03-31.md"
   ]
 }
