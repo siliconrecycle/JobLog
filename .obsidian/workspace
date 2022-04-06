@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作文档/7、MISC 设备.md",
+            "file": "工作日志/2022-04-06.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作文档/7、MISC 设备.md",
+                "file": "工作日志/2022-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "87055c0ffd395d5d",
   "lastOpenFiles": [
+    "工作日志/2022-04-06.md",
     "工作文档/7、MISC 设备.md",
     "工作文档/6、基于设备树的平台驱动.md",
     "工作文档/5、平台总线GPIO.md",
@@ -114,7 +115,6 @@
     "想法.md",
     "工作日志/2022-04-01.md",
     "template/日志.md",
-    "工作日志/2022-03-11.md",
-    "工作日志/2022-03-15.md"
+    "工作日志/2022-03-11.md"
   ]
 }
