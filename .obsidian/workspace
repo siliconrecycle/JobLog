@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4bdad42c3c524b35",
+        "id": "8e8eb84b782389e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -95,9 +95,10 @@
     "direction": "horizontal",
     "width": 286
   },
-  "active": "4bdad42c3c524b35",
+  "active": "8e8eb84b782389e2",
   "lastOpenFiles": [
     "工作日志/2022-04-09.md",
+    "The C Programming Language 2nd.pdf",
     "工作文档/9、MIO中断.md",
     "工作文档/8、Input 子系统.md",
     "存档.md",
@@ -105,7 +106,6 @@
     "想法.md",
     "已解决.md",
     "工作日志/2022-04-08.md",
-    "工作日志/2022-03-11.md",
-    "工作日志/2022-04-07.md"
+    "工作日志/2022-03-11.md"
   ]
 }
