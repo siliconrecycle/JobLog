@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作日志/2022-04-08.md",
+            "file": "工作日志/2022-04-09.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2022-04-08.md",
+                "file": "工作日志/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "4bdad42c3c524b35",
   "lastOpenFiles": [
+    "工作日志/2022-04-09.md",
     "工作日志/2022-04-08.md",
     "工作日志/2022-03-11.md",
     "工作日志/2022-04-07.md",
@@ -105,7 +106,6 @@
     "工作文档/8、Input 子系统.md",
     "工作日志/2022-04-06.md",
     "工作文档/7、MISC 设备.md",
-    "工作文档/6、基于设备树的平台驱动.md",
-    "体征记录/0401.md"
+    "工作文档/6、基于设备树的平台驱动.md"
   ]
 }
