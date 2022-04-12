@@ -40,17 +40,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "定时器",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
