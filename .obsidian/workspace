@@ -44,7 +44,7 @@
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 380
   },
   "right": {
     "id": "cf5151edb0f77bba",
@@ -99,6 +99,7 @@
   "active": "8e8eb84b782389e2",
   "lastOpenFiles": [
     "工作日志/2022-04-12.md",
+    "工作日志/2022-03-17.md",
     "工作日志/2022-03-12.md",
     "工作日志/2022-03-14.md",
     "工作日志/2022-04-11.md",
@@ -106,7 +107,6 @@
     "想法.md",
     "待办.md",
     "工作日志/2022-04-09.md",
-    "The C Programming Language 2nd.pdf",
-    "工作文档/9、MIO中断.md"
+    "The C Programming Language 2nd.pdf"
   ]
 }
