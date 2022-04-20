@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "想法.md",
+            "file": "工作日志/2022-04-20.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "想法.md",
+                "file": "工作日志/2022-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "8e8eb84b782389e2",
   "lastOpenFiles": [
+    "工作日志/2022-04-20.md",
     "想法.md",
     "工作日志/2022-03-02.md",
     "工作日志/2022-03-08.md",
@@ -106,7 +107,6 @@
     "工作日志/2022-04-19.md",
     "工作日志/2022-04-18.md",
     "工作日志/2022-04-16.md",
-    "工作日志/2022-04-12.md",
-    "已解决.md"
+    "工作日志/2022-04-12.md"
   ]
 }
