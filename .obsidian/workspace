@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sys",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 332
   },
   "right": {
     "id": "cf5151edb0f77bba",
@@ -99,13 +98,13 @@
   "active": "8e8eb84b782389e2",
   "lastOpenFiles": [
     "工作日志/2022-04-20.md",
+    "工作日志/2022-04-19.md",
+    "工作日志/2022-04-18.md",
     "想法.md",
     "工作日志/2022-03-02.md",
     "工作日志/2022-03-08.md",
     "工作日志/2022-03-03.md",
     "工作日志/2022-03-07.md",
-    "工作日志/2022-04-19.md",
-    "工作日志/2022-04-18.md",
     "工作日志/2022-04-16.md",
     "工作日志/2022-04-12.md"
   ]
