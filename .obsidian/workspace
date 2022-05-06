@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作日志/2022-05-05.md",
+            "file": "工作日志/2022-05-06.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2022-05-05.md",
+                "file": "工作日志/2022-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "4b6b2a23f1b5783d",
   "lastOpenFiles": [
+    "工作日志/2022-05-06.md",
     "工作日志/2022-05-05.md",
     "工作日志/2022-04-29.md",
     "工作日志/2022-04-28.md",
@@ -105,7 +106,6 @@
     "想法.md",
     "工作日志/2022-04-25.md",
     "工作日志/2022-04-24.md",
-    "工作日志/2022-04-22.md",
-    "Clang 错题集/C 的 for 语法.md"
+    "工作日志/2022-04-22.md"
   ]
 }
