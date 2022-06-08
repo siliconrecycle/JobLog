@@ -70,23 +70,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "24c8e6ccd6f3cd55",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "工作日志/2022-06-08.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ]
       }
