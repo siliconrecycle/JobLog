@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作日志/2022-06-08.md",
+            "file": "工作日志/2022-06-09.md",
             "mode": "source",
             "source": false
           }
@@ -70,6 +70,23 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "7df34955a9d4c709",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作日志/2022-06-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -79,6 +96,7 @@
   },
   "active": "84dd01dd4695f9e6",
   "lastOpenFiles": [
+    "工作日志/2022-06-09.md",
     "工作日志/2022-06-08.md",
     "工作日志/2022-06-07.md",
     "template/日志.md",
@@ -87,7 +105,6 @@
     "杂项/One.md",
     "template/大纲.md",
     "工作日志/2022-06-01.md",
-    "工作日志/2022-06-02.md",
-    "工作日志/2022-05-31.md"
+    "工作日志/2022-06-02.md"
   ]
 }
