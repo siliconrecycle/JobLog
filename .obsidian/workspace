@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "576c0f0b0a7570de",
+        "id": "a56cabc9740f0b5a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 251.5
   },
   "right": {
     "id": "cf5151edb0f77bba",
@@ -94,9 +94,10 @@
     "direction": "horizontal",
     "width": 277
   },
-  "active": "576c0f0b0a7570de",
+  "active": "a56cabc9740f0b5a",
   "lastOpenFiles": [
     "工作日志/2022-06-29.md",
+    "杂项/One.md",
     "工作日志/2022-06-28.md",
     "工作日志/2022-06-27.md",
     "工作日志/2022-06-25.md",
@@ -104,7 +105,6 @@
     "工作日志/2022-06-23.md",
     "工作日志/2022-06-22.md",
     "杂项/待办.md",
-    "工作日志/2022-06-21.md",
-    "杂项/One.md"
+    "工作日志/2022-06-21.md"
   ]
 }
