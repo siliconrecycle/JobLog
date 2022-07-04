@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "71faa6ba5da0cfd6",
+        "id": "a9533460494808dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 346.5
   },
   "right": {
     "id": "cf5151edb0f77bba",
@@ -94,7 +94,7 @@
     "direction": "horizontal",
     "width": 277
   },
-  "active": "71faa6ba5da0cfd6",
+  "active": "a9533460494808dc",
   "lastOpenFiles": [
     "工作日志/2022-07-04.md",
     "杂项/One.md",
