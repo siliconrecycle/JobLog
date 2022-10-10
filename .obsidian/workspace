@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iic",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 328
   },
   "active": "8a17a1494f251878",
   "lastOpenFiles": [
