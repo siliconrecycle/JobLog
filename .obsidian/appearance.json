@@ -4,5 +4,6 @@
   "translucency": false,
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "Segoe UI",
-  "interfaceFontFamily": "Segoe UI"
+  "interfaceFontFamily": "Segoe UI",
+  "accentColor": ""
 }
