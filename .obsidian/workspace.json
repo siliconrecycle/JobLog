@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpio",
+                "query": "configs",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
