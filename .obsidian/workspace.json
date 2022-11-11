@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gpio",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,8 +103,9 @@
     "direction": "horizontal",
     "width": 328
   },
-  "active": "f9fcd41b00482d5a",
+  "active": "6a4a6a35622b46ca",
   "lastOpenFiles": [
+    "工作日志/2022-11-11.md",
     "工作日志/2022-11-10.md",
     "工作日志/2022-11-09.md",
     "工作日志/2022-11-08.md",
@@ -113,7 +114,6 @@
     "工作日志/2022-11-03.md",
     "工作日志/2022-11-02.md",
     "工作日志/2022-11-01.md",
-    "工作日志/2022-10-31.md",
-    "工作日志/2022-10-29.md"
+    "工作日志/2022-10-31.md"
   ]
 }
