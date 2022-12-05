@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2022-12-05.md",
+                "file": "工作日志/2022-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2022-12-05.md",
+                "file": "工作日志/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,14 +102,14 @@
     "direction": "horizontal",
     "width": 284.5
   },
-  "active": "f9fcd41b00482d5a",
+  "active": "6a4a6a35622b46ca",
   "lastOpenFiles": [
-    "工作日志/2022-12-02.md",
+    "工作日志/2022-11-30.md",
     "工作日志/2022-12-05.md",
     "工作日志/2022-12-01.md",
-    "工作日志/2022-11-30.md",
     "工作日志/2022-11-29.md",
     "工作日志/2022-11-28.md",
+    "工作日志/2022-12-02.md",
     "杂项/辨析.md",
     "杂项/待办.md",
     "杂项/存档.md",
