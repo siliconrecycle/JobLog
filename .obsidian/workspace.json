@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2022-12-07.md",
+                "file": "工作日志/2022-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,32 +80,24 @@
             }
           },
           {
-            "id": "7df34955a9d4c709",
+            "id": "f2e16374def9f0b6",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "工作日志/2022-12-07.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 284.5
   },
-  "active": "6a4a6a35622b46ca",
+  "active": "e744afc809e144c5",
   "lastOpenFiles": [
-    "工作日志/2022-12-06.md",
     "工作日志/2022-12-07.md",
+    "工作日志/2022-12-06.md",
     "工作日志/2022-12-05.md",
     "工作日志/2022-12-02.md",
     "工作日志/2022-12-01.md",
