@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28536f1a57e3370c",
+        "id": "9881ddae451eb011",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4a6a35622b46ca",
+            "id": "8a236029e1ee4575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2022-12-06.md",
+                "file": "工作日志/2022-12-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e744afc809e144c5",
+            "id": "606e359a27f9a0f6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,11 +80,28 @@
             }
           },
           {
-            "id": "f2e16374def9f0b6",
+            "id": "3becb7a52515d922",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "ebcef8fa7b062e43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作日志/2022-12-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -92,9 +109,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 291.5
   },
-  "active": "e744afc809e144c5",
+  "active": "8a236029e1ee4575",
   "lastOpenFiles": [
     "工作日志/2022-12-07.md",
     "工作日志/2022-12-06.md",
