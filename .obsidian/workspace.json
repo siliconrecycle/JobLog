@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2022-12-08.md",
+                "file": "工作日志/2022-12-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2022-12-08.md",
+                "file": "工作日志/2022-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "3becb7a52515d922",
+  "active": "8a236029e1ee4575",
   "lastOpenFiles": [
+    "工作日志/2022-12-08.md",
+    "工作日志/2022-12-09.md",
     "工作日志/2022-12-05.md",
     "工作日志/2022-12-06.md",
     "工作日志/2022-12-07.md",
-    "工作日志/2022-12-08.md",
     "工作日志/2022-12-02.md",
     "工作日志/2022-12-01.md",
     "工作日志/2022-11-30.md",
     "工作日志/2022-11-29.md",
-    "工作日志/2022-11-28.md",
-    "杂项/辨析.md"
+    "工作日志/2022-11-28.md"
   ]
 }
