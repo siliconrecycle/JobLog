@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2023-01-16.md",
+                "file": "工作日志/2022-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "7015",
+                "query": "fpga",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2023-01-16.md",
+                "file": "工作日志/2022-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +124,15 @@
   },
   "active": "e68dcfc06c5b5f27",
   "lastOpenFiles": [
-    "工作日志/2023-01-16.md",
-    "工作日志/2023-01-13.md",
-    "工作日志/2023-01-12.md",
-    "Untitled.canvas",
-    "工作日志/2023-01-10.md",
-    "工作日志/2023-01-09.md",
-    "杂项/已解决.md",
-    "工作日志/2022-12-20.md",
+    "杂项/存档.md",
     "工作日志/2022-12-29.md",
-    "工作日志/2023-01-06.md"
+    "工作日志/2022-12-16.md",
+    "工作日志/2022-12-15.md",
+    "工作日志/2022-12-12.md",
+    "工作日志/2022-12-06.md",
+    "工作日志/2022-10-09.md",
+    "工作日志/2022-07-02.md",
+    "工作日志/2022-06-17.md",
+    "工作日志/2022-06-06.md"
   ]
 }
