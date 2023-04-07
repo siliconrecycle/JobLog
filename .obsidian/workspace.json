@@ -104,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6f5fbe4a9cdaf3f6",
+  "active": "606e359a27f9a0f6",
   "lastOpenFiles": [
     "工作日志/2023-04-04.md",
     "工作日志/2023-04-07.md",
