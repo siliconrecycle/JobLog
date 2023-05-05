@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2023-05-04.md",
+                "file": "工作日志/2023-05-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "byModifiedTime"
               }
             }
+          },
+          {
+            "id": "4b1fc37c23427f5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2023-05-04.md",
+                "file": "工作日志/2023-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +131,10 @@
   },
   "active": "a4743a958e0c3404",
   "lastOpenFiles": [
+    "工作日志/2023-05-04.md",
+    "工作日志/2023-05-05.md",
     "工作日志/2023-04-28.md",
     "工作日志/2023-04-27.md",
-    "工作日志/2023-05-04.md",
     "工作日志/2023-04-26.md",
     "工作日志/2023-04-24.md",
     "工作日志/2023-04-20.md",
@@ -149,7 +158,6 @@
     "工作日志/2023-03-30.md",
     "杂项/存档.md",
     "Pasted image 20230424105744.png",
-    "Pasted image 20230424105406.png",
-    "工作日志/2023-03-09.md"
+    "Pasted image 20230424105406.png"
   ]
 }
