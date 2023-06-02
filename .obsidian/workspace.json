@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2023-06-01.md",
+                "file": "工作日志/2023-06-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2023-06-01.md",
+                "file": "工作日志/2023-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,9 @@
   },
   "active": "1aeff158d3191f8c",
   "lastOpenFiles": [
-    "工作日志/2023-05-30.md",
     "工作日志/2023-06-01.md",
+    "工作日志/2023-06-02.md",
+    "工作日志/2023-05-30.md",
     "工作日志/2023-05-29.md",
     "工作日志/2023-05-26.md",
     "工作日志/2023-05-24.md",
@@ -157,7 +158,6 @@
     "杂项/存档.md",
     "工作日志/2023-05-08.md",
     "工作日志/2023-05-05.md",
-    "工作日志/2023-05-04.md",
     "Pasted image 20230424105744.png",
     "Pasted image 20230424105406.png"
   ]
