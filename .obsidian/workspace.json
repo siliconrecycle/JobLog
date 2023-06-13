@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2023-06-12.md",
+                "file": "工作日志/2023-06-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gpio",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/2023-06-12.md",
+                "file": "工作日志/2023-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +130,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1aeff158d3191f8c",
+  "active": "f9fcd41b00482d5a",
   "lastOpenFiles": [
-    "工作日志/2023-06-07.md",
     "工作日志/2023-06-12.md",
+    "工作日志/2023-06-13.md",
+    "工作日志/2023-06-07.md",
     "工作日志/2023-06-06.md",
     "工作日志/2023-06-05.md",
     "工作日志/2023-06-02.md",
@@ -157,7 +159,6 @@
     "工作日志/2022-10-17.md",
     "工作日志/2022-10-18.md",
     "工作日志/2022-10-19.md",
-    "工作日志/2023-03-08.md",
     "Pasted image 20230424105744.png",
     "Pasted image 20230424105406.png"
   ]
